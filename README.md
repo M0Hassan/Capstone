@@ -1,11 +1,11 @@
-## Capstone
+## Cornerstone
 
 > This is a real estate application where users can find property to either Rent or Buy. Each property has descriptions such as price, number of rooms, amenities available as well as furnishment. Properties on the app are derived from an API.
 
 ### Installation
 
-- git clone [https://github.com/Capstone.git]
-- cd Capstone
+- git clone [https://github.com/Cornerstone.git]
+- cd Cornerstone
 - npm start
 
 ### Technology Stack Used
